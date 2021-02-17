@@ -1,0 +1,9 @@
+form{
+	background-color: #add8e6;
+}
+textarea{
+	overflow:scroll;
+}
+.comment {
+	text-align: top;
+}
